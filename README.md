@@ -30,7 +30,7 @@ This project explores insurance policies, claims, and risk patterns to uncover v
 - `README.md`: Documentation.  
 
 ## 📊 Power BI Dashboard  
-*(You can add a screenshot of your Power BI dashboard here for better presentation.)*  
+  ![Dashboard Preview](Insurance_Analysis.jpg)
 
 ## 🤝 How to Contribute  
 If you’d like to suggest improvements:  
